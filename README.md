@@ -1,2 +1,10 @@
-# class12
-week1
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>About me</title>
+    </head>
+
+    <body>
+
+    </body>
+</html>
