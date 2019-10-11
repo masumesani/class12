@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-    <title>About me</title>
-    </head>
-
-    <body>
-
-    </body>
-</html>
+Homework for hack your future course week 1 
